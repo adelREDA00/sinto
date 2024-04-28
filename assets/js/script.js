@@ -577,14 +577,3 @@ loc.addEventListener("click",()=>{
   modal.classList.add('closed')
   console.log("el");
 })
-
-
-
-
-
-
-
-
-
-
-
