@@ -1254,7 +1254,7 @@ body {
 }
 
 .grid-project > li > img {
-  height: 150px;
+  width: 150px;
 }
 
 @media (min-width: 780px) and (max-width: 1050px) {
